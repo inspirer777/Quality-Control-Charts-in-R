@@ -18,5 +18,10 @@ This project includes code for generating quality control charts (Control Charts
    ```r
    data1 <- read_excel("C:/path/to/your/excel/file.xlsx")```
 
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE).  
+You can freely use, modify, and redistribute it under the terms of this license.
+
 # Good luck    
 
