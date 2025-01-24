@@ -20,8 +20,8 @@ This project includes code for generating quality control charts (Control Charts
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE).  
-You can freely use, modify, and redistribute it under the terms of this license.
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project under the terms of the license.
 
 # Good luck    
 
